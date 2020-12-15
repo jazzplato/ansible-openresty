@@ -1,4 +1,4 @@
-install-openresty
+ansible-openresty
 =========
 
 A plain and simple role to install [OpenResty](https://openresty.org/en/) on Linux (currently only Ubuntu) after being tortured by the tedious command line installation for multiple times \_(:3」∠)\_
@@ -24,7 +24,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: jazzplato.install-openresty }
+         - { role: jazzplato.ansible-openresty }
 
 License
 -------
