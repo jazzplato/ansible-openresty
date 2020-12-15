@@ -1,7 +1,7 @@
 ansible-openresty
 =========
 
-[![Build Status](https://travis-ci.org/jazzplato/ansible-role-install-openresty.svg?branch=master)](https://travis-ci.org/jazzplato/ansible-role-install-openresty)
+[![Build Status](https://travis-ci.org/jazzplato/ansible-openresty.svg?branch=master)](https://travis-ci.org/jazzplato/ansible-openresty)
 
 A plain and simple role to install [OpenResty](https://openresty.org/en/) on Linux (currently only Ubuntu) after being tortured by the tedious command line installation for multiple times \_(:3」∠)\_
 
